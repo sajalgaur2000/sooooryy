@@ -56,15 +56,15 @@ export default function Page() {
           <img src="https://gifdb.com/images/high/animated-bear-kiss-enngnq0gm2r405bt.webp" />
           <div className="text-[2rem] font-bold text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
             {/* Thanks! Ok yay */}
-            Cảm ơn em! Tình yêu của anh đây rồi!!! hê hê
+             I love you 
           </div>
         </>
       ) : (
         <>
           <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
           <h1 className="text-[2rem] text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
-            {/* Will you be my Valentine? */}
-            Em sẽ là tình yêu của anh chứ?
+            {/* xyz */}
+            i am sorry swati , can you please forgive me ?
           </h1>
           <div className="text-center space-y-5">
             <button
@@ -72,16 +72,16 @@ export default function Page() {
               style={{ fontSize: yesButtonSize }}
               onClick={() => setYesPressed(true)}
             >
-              {/* Yes */}
-              Đúng
+              {/* duns */}
+               Yes
             </button>
             <button
               onClick={handleNoClick}
               className=" bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded"
             >
               {noCount === 0 ? 
-                // "No" 
-                "Không 😥"
+                 "No" 
+                //"Không 😥"
                 : getNoButtonText()
               }
             </button>
