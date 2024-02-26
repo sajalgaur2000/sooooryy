@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "💖 Sorry 💖",
-  description: "I am sorry Swati , can you pls forgive me ?",
+  description: "Chalo kahi ghumne chale 🫡 ?",
 };
 
 export default function RootLayout({
