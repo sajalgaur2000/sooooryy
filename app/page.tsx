@@ -64,7 +64,7 @@ export default function Page() {
           <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
           <h1 className="text-[2rem] text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
             {/* xyz */}
-            i am sorry swati , can you please forgive me ?
+            Lets plan for next trip soon harsha ?
           </h1>
           <div className="text-center space-y-5">
             <button
