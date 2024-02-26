@@ -16,9 +16,9 @@ export default function Page() {
       // English
        "No",
        "Are you sure??🙄",
-       "Really sure swati?🤔",
+       "Really sure harsha ?🤔",
        "Are you positive???😶",
-       "Please my love...🙏",
+       "Please my my ...🙏",
        "Just think about it🥺",
        "If you say no, I'll be very sad🙁",
        "I'll be very very sad😕",
