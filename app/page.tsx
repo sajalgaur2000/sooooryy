@@ -53,10 +53,10 @@ export default function Page() {
     <div className="flex flex-col items-center justify-center h-screen -mt-16">
       {yesPressed ? (
         <>
-          <img src="https://gifdb.com/images/high/animated-bear-kiss-enngnq0gm2r405bt.webp" />
+          <img src="https://gifdb.com/images/high/squatting-travel-guy-s7fzxfypw7tj0eqh.gif" />
           <div className="text-[2rem] font-bold text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
             {/* Thanks! Ok yay */}
-             I love you 
+             Lets fix a date then ? 
           </div>
         </>
       ) : (
